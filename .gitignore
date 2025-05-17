@@ -1,0 +1,60 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+a.out
+*.exe
+*.out
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# Backup & temp files
+*~
+*.swp
+*.tmp
+*.bak
+
+# GTK UI designer files (if using Glade or similar)
+*.ui~
+
+# CMake or autotools files (if you're using those)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+configure
+config.status
+config.log
+aclocal.m4
+autom4te.cache/
+libtool
+ltmain.sh
+missing
+depcomp
+install-sh
+m4/
+
+# Logs
+*.log
+
+# IDE noise
+.vscode/
+.idea/
+*.code-workspace
+
+# Core dumps (when C goes full drama queen)
+core
+
