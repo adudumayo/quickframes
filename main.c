@@ -20,3 +20,15 @@ int main (int argc, char **argv) {
 
   return status;
 }
+
+/* TODO
+ * I am going to follow the GTK documentation
+ * and type in every single thing to build muscle memory
+ * I want to know the syntax, I believe 
+ * I learn better when I do not copy and paste from the
+ * documentation
+ *
+ * I recommend you go check out the GTK Documentaion
+ * it is simple and easy to read
+ * this is going to be a very interesting project
+ */
